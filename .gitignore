@@ -1,4 +1,4 @@
-{lib,test}/*.js
+test/*.js
 docs
 node_modules
 test/data/
