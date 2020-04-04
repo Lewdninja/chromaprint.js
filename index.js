@@ -548,7 +548,7 @@
 
   cli.usage('[options] <file ...>');
 
-  cli.version(require('../package').version);
+  // cli.version(require('../package').version);
 
   cli.option('-l, --length SECS', 'seconds of audio to scan [120]', parseInt, 120);
 
